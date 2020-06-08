@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'iranyekan';
+    src: url('eot/iranyekanwebthinfanum.eot');
+    src: url('eot/iranyekanwebthinfanum.eot?#iefix') format('embedded-opentype'),
+    url('woff/iranyekanwebthinfanum.woff') format('woff'),
+    url('ttf/iranyekanwebthinfanum.ttf') format('truetype'),
+    url('/svg/iranyekanwebthinfanum.svg#IRANYekan-thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iranyekan';
+    src: url('eot/iranyekanweblightfanum.eot');
+    src: url('eot/iranyekanweblightfanum.eot?#iefix') format('embedded-opentype'),
+    url('woff/iranyekanweblightfanum.woff') format('woff'),
+    url('ttf/iranyekanweblightfanum.ttf') format('truetype'),
+    url('svg/iranyekanweblightfanum.svg#iranyekanweblightfanum') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iranyekan';
+    src: url('eot/iranyekanwebmediumfanum.eot');
+    src: url('eot/iranyekanwebmediumfanum.eot?#iefix') format('embedded-opentype'),
+    url('woff/iranyekanwebmediumfanum.woff') format('woff'),
+    url('ttf/iranyekanwebmediumfanum.ttf') format('truetype'),
+    url('svg/iranyekanwebmediumfanum.svg#iranyekanwebmediumfanum') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iranyekan';
+    src: url('eot/iranyekanwebregularfanum.eot');
+    src: url('eot/iranyekanwebregularfanum.eot?#iefix') format('embedded-opentype'),
+    url('woff/iranyekanwebregularfanum.woff') format('woff'),
+    url('ttf/iranyekanwebregularfanum.ttf') format('truetype'),
+    url('svg/iranyekanwebregularfanum.svg#iranyekanwebregularfanum') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iranyekan';
+    src: url('eot/iranyekanwebboldfanum.eot');
+    src: url('eot/iranyekanwebboldfanum.eot?#iefix') format('embedded-opentype'),
+    url('woff/iranyekanwebboldfanum.woff') format('woff'),
+    url('ttf/iranyekanwebboldfanum.ttf') format('truetype'),
+    url('svg/iranyekanwebboldfanum.svg#iranyekanwebboldfanum') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iranyekan';
+    src: url('eot/iranyekanwebextraboldfanum.eot');
+    src: url('eot/iranyekanwebextraboldfanum.eot?#iefix') format('embedded-opentype'),
+    url('woff/iranyekanwebextraboldfanum.woff') format('woff'),
+    url('ttf/iranyekanwebextraboldfanum.ttf') format('truetype'),
+    url('svg/iranyekanwebextraboldfanum.svg#iranyekanwebextraboldfanum') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
